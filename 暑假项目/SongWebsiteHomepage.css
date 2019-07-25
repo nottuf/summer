@@ -1,0 +1,41 @@
+body{
+    letter-spacing: 1px;
+    text-align: center;
+    box-sizing: border-box;
+    max-width: 1939.2px;
+    margin: 100px 450px;
+    width: 600px;
+    background-image: url(./image/music.png);
+    background-size:contain;
+    background-color: white;
+
+
+}
+.header .introduction{
+           margin: 50px auto;
+}
+.button {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: solid 1px #20538D;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    background: #4479BA;
+    color: #FFF;
+    padding: 10px 40px;
+    text-decoration: none;
+    width: 200px;
+    margin-top: 50px 
+}
+  .section_menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items:center;
+    align-content: center;
+    text-align: center;
+  }
